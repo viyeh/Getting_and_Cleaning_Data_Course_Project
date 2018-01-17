@@ -1,3 +1,4 @@
+```r
 Codebook
 
 
@@ -59,3 +60,5 @@ features : List of all features
 activity_labels : Links the class labels with their activity name
 
 (features are normalized and bounded within [-1,1])
+
+```
